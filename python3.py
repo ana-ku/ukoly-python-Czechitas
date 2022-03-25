@@ -1,17 +1,20 @@
-cislo = input("Na jaké číslo chce poslat zprávu? ")
-zprava = input("Jakou zprávu chcete poslat?")
-cisloBezMezer = cislo.replace(" ", "")
-def posilaniZprav(nr, mess):
+def kontrolaCisla(telefonni_cislo):
   #zjistím platnost čísla, tj. obsahuje +420 nebo je dlouhé 9 znaků
-  if (nr[0:4] == "+420" and len(nr) == 13) or len(nr) == 9:
-    pass
+  if (telefonni_cislo[0:4] == "+420" and len(telefonni_cislo) == 13) or len(telefonni_cislo) == 9:
+    zprava = input("Jakou zprávu chcete poslat? ")
+    return zprava
   else:
     print("Špatný formát čísla")
     exit()
-  
-  #zjistím délku zprávy s
-  delkaZpravy = len(mess)
-  cenaZpravy = (delkaZpravy//180 + 1) * 3
-  return f"Správně zadané číslo a zaplatíš {cenaZpravy} Kč za zprávu"
 
-print(posilaniZprav(cisloBezMezer,zprava))
+def vypocetCeny(zprava):
+  #zjistím délku zprávy
+  delkaZpravy = len(zprava)
+  cenaZpravy = (delkaZpravy//180 + 1) * 3
+  return f"Zaplatíš {cenaZpravy} Kč za zprávu"
+cislo = input("Na jaké číslo chce poslat zprávu? ")
+
+cisloBezMezer = cislo.replace(" ", "")
+zprava = kontrolaCisla(cisloBezMezer)
+cena = vypocetCeny(zprava)
+print(cena)
