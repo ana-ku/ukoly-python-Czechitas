@@ -489,9 +489,16 @@ staty = [
     {'name': 'Zimbabwe', 'capital': 'Harare', 'region': 'Africa', 'subregion': 'Eastern Africa', 'population': 14240168,
      'area': 390757.0}]
 
+regiony = []
+for item in staty:
+  if item["region"] not in regiony:
+    regiony.append(item["region"])
+# nebo dát region.append(item["region"])
+# a pak regiony = set(regiony) vytvoří množinu a ignoruje duplicity
+print(regiony)
 
 vypsaneStaty = []
-region = input("Jaký region tě zajímá? ")
+region = input(f"Jaký region tě zajímá? {regiony} ")
 for item in staty:
   if region == item["region"]:
     vypsaneStaty.append(item["name"])
