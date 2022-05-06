@@ -17,6 +17,7 @@ def vypocetVstupenek(kolikLidi,kdy):
     cenaVstupenky = 250
   else:
     print("V tomhle termínu nehrajem, sorry.")
+    exit()
   cena = int(kolikLidi) * cenaVstupenky
   return f"Zaplať {cena} Kč."
 
