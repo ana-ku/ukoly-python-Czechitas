@@ -1,0 +1,154 @@
+City,Region,Country,Day,AvgTemperature,AvgCelsius
+Birmingham,North America,US,13,54.8,12.67
+Huntsville,North America,US,13,52.5,11.39
+Mobile,North America,US,13,61.6,16.44
+Montgomery,North America,US,13,55.1,12.83
+Anchorage,North America,US,13,16.2,-8.78
+Fairbanks,North America,US,13,25.0,-3.89
+Juneau,North America,US,13,26.7,-2.94
+Phoenix,North America,US,13,74.2,23.44
+Tucson,North America,US,13,69.8,21.0
+Fort Smith,North America,US,13,53.0,11.67
+Little Rock,North America,US,13,53.1,11.72
+Fresno,North America,US,13,55.4,13.0
+Los Angeles,North America,US,13,61.7,16.5
+Sacramento,North America,US,13,56.0,13.33
+San Diego,North America,US,13,63.7,17.61
+San Francisco,North America,US,13,59.7,15.39
+Colorado Springs,North America,US,13,49.8,9.89
+Denver,North America,US,13,50.3,10.17
+Grand Junction,North America,US,13,47.5,8.61
+Pueblo,North America,US,13,47.6,8.67
+Bridgeport,North America,US,13,40.7,4.83
+Hartford Springfield,North America,US,13,34.5,1.39
+Washington,North America,US,13,45.2,7.33
+Washington,North America,US,13,45.2,7.33
+Washington DC,North America,US,13,45.2,7.33
+Washington DC,North America,US,13,45.2,7.33
+Jacksonville,North America,US,13,66.3,19.06
+Miami Beach,North America,US,13,79.2,26.22
+Orlando,North America,US,13,72.8,22.67
+Tallahassee,North America,US,13,64.7,18.17
+Tampa St. Petersburg,North America,US,13,76.5,24.72
+West Palm Beach,North America,US,13,76.5,24.72
+Atlanta,North America,US,13,52.2,11.22
+Columbus,North America,US,13,57.1,13.94
+Macon,North America,US,13,53.6,12.0
+Savannah,North America,US,13,60.3,15.72
+Honolulu,North America,US,13,78.5,25.83
+Boise,North America,US,13,47.1,8.39
+Pocatello,North America,US,13,39.9,4.39
+Chicago,North America,US,13,36.4,2.44
+Peoria,North America,US,13,38.6,3.67
+Rockford,North America,US,13,32.7,0.39
+Springfield,North America,US,13,41.6,5.33
+Evansville,North America,US,13,44.4,6.89
+Fort Wayne,North America,US,13,38.4,3.56
+Indianapolis,North America,US,13,39.6,4.22
+South Bend,North America,US,13,38.0,3.33
+Des Moines,North America,US,13,35.1,1.72
+Sioux City,North America,US,13,32.4,0.22
+Goodland,North America,US,13,43.5,6.39
+Topeka,North America,US,13,42.1,5.61
+Wichita,North America,US,13,47.5,8.61
+Lexington,North America,US,13,44.0,6.67
+Louisville,North America,US,13,45.3,7.39
+Paducah,North America,US,13,46.8,8.22
+Lake Charles,North America,US,13,67.1,19.5
+New Orleans,North America,US,13,66.1,18.94
+Shreveport,North America,US,13,61.1,16.17
+Caribou,North America,US,13,24.8,-4.0
+Portland,North America,US,13,29.4,-1.44
+Baltimore,North America,US,13,41.9,5.5
+Boston,North America,US,13,39.6,4.22
+Detroit,North America,US,13,38.5,3.61
+Flint,North America,US,13,36.6,2.56
+Grand Rapids,North America,US,13,38.1,3.39
+Lansing,North America,US,13,36.8,2.67
+Sault Ste Marie,North America,US,13,34.5,1.39
+Duluth,North America,US,13,25.5,-3.61
+Minneapolis St. Paul,North America,US,13,33.2,0.67
+Jackson,North America,US,13,63.7,17.61
+Tupelo,North America,US,13,51.8,11.0
+Kansas City,North America,US,13,42.9,6.06
+Springfield,North America,US,13,47.6,8.67
+St Louis,North America,US,13,43.8,6.56
+Billings,North America,US,13,38.1,3.39
+Great Falls,North America,US,13,41.8,5.44
+Helena,North America,US,13,29.0,-1.67
+Lincoln,North America,US,13,35.7,2.06
+North Platte,North America,US,13,43.7,6.5
+Omaha,North America,US,13,36.7,2.61
+Reno,North America,US,13,48.4,9.11
+Las Vegas,North America,US,13,59.2,15.11
+Concord,North America,US,13,28.9,-1.72
+Atlantic City,North America,US,13,41.2,5.11
+Newark,North America,US,13,42.3,5.72
+Albuquerque,North America,US,13,56.6,13.67
+Albany,North America,US,13,35.3,1.83
+Buffalo,North America,US,13,36.8,2.67
+New York City,North America,US,13,45.4,7.44
+Rochester,North America,US,13,38.7,3.72
+Syracuse,North America,US,13,35.8,2.11
+Asheville,North America,US,13,48.7,9.28
+Charlotte,North America,US,13,48.6,9.22
+Greensboro,North America,US,13,47.7,8.72
+Raleigh Durham,North America,US,13,47.8,8.78
+Bismarck,North America,US,13,36.0,2.22
+Fargo,North America,US,13,34.9,1.61
+Akron Canton,North America,US,13,39.2,4.0
+Cincinnati,North America,US,13,41.8,5.44
+Cleveland,North America,US,13,42.0,5.56
+Columbus,North America,US,13,41.4,5.22
+Dayton,North America,US,13,38.5,3.61
+Toledo,North America,US,13,38.7,3.72
+Youngstown,North America,US,13,37.4,3.0
+Oklahoma City,North America,US,13,51.4,10.78
+Tulsa,North America,US,13,51.7,10.94
+Eugene,North America,US,13,50.9,10.5
+Medford,North America,US,13,53.2,11.78
+Portland,North America,US,13,50.8,10.44
+Salem,North America,US,13,52.3,11.28
+Allentown,North America,US,13,39.5,4.17
+Erie,North America,US,13,38.8,3.78
+Philadelphia,North America,US,13,41.7,5.39
+Pittsburgh,North America,US,13,40.2,4.56
+Wilkes Barre,North America,US,13,38.1,3.39
+Rhode Island,North America,US,13,37.3,2.94
+Charleston,North America,US,13,57.2,14.0
+Columbia,North America,US,13,52.8,11.56
+Rapid City,North America,US,13,41.8,5.44
+Sioux Falls,North America,US,13,37.3,2.94
+Chattanooga,North America,US,13,53.5,11.94
+Knoxville,North America,US,13,50.6,10.33
+Memphis,North America,US,13,52.6,11.44
+Nashville,North America,US,13,49.0,9.44
+Abilene,North America,US,13,54.9,12.72
+Amarillo,North America,US,13,50.4,10.22
+Austin,North America,US,13,69.8,21.0
+Brownsville,North America,US,13,75.6,24.22
+Corpus Christi,North America,US,13,72.8,22.67
+Dallas Ft Worth,North America,US,13,62.0,16.67
+El Paso,North America,US,13,60.2,15.67
+Houston,North America,US,13,68.5,20.28
+Lubbock,North America,US,13,50.7,10.39
+Midland Odessa,North America,US,13,55.2,12.89
+San Angelo,North America,US,13,58.2,14.56
+San Antonio,North America,US,13,70.6,21.44
+Waco,North America,US,13,64.5,18.06
+Wichita Falls,North America,US,13,54.7,12.61
+Salt Lake City,North America,US,13,43.5,6.39
+Burlington,North America,US,13,31.9,-0.06
+Norfolk,North America,US,13,50.8,10.44
+Richmond,North America,US,13,43.4,6.33
+Roanoke,North America,US,13,44.5,6.94
+Seattle,North America,US,13,50.4,10.22
+Spokane,North America,US,13,40.4,4.67
+Yakima,North America,US,13,47.1,8.39
+Charleston,North America,US,13,46.2,7.89
+Elkins,North America,US,13,42.9,6.06
+Green Bay,North America,US,13,32.6,0.33
+Madison,North America,US,13,30.0,-1.11
+Milwaukee,North America,US,13,36.8,2.67
+Casper,North America,US,13,48.1,8.94
+Cheyenne,North America,US,13,45.7,7.61
